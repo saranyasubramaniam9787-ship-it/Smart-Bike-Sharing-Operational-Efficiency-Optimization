@@ -1,4 +1,5 @@
 # Smart City Bike Sharing: Operational Efficiency & Optimization
+*A data-driven analysis of bike availability, station efficiency, and inventory accuracy across major European cities to optimize redistribution strategies.*
 
 ## 📖 Table of Contents
 - [Project Overview](#-project-overview)
