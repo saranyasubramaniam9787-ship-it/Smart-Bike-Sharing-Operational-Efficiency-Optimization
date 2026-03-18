@@ -1,12 +1,12 @@
 # Smart City Bike Sharing: Operational Efficiency & Optimization
-* 📊 Project Overview
+ 📊 Project Overview
 This project delivers a comprehensive operational analysis of a multi-city smart bike-sharing network across Europe. The primary goal is to transform raw real-time inventory data into actionable intelligence that optimizes fleet distribution, enhances station efficiency, and ensures data integrity.
 Key Business Objectives:
 Operational Health Monitoring: Evaluate system performance by tracking bike availability, slot utilization, and station status (Open/Closed) across different geographies.
 Data Integrity & Validation: Identify and quantify inventory mismatches where reported bike/slot counts do not align with physical capacity, pinpointing potential sensor errors or theft.
 Demand Pattern Analysis: Uncover temporal trends (hourly/daily) and geographical hotspots to understand commuter behavior and peak usage windows.
 Incentive Optimization: Assess the effectiveness of current reward categories (e.g., free ride minutes) in balancing supply and demand at "sink" and "source" stations.
-Strategic Recommendations: Provide data-driven strategies for proactive bike redistribution, infrastructure planning for emerging markets, and maintenance prioritization to improve overall user satisfaction and system reliability.*
+Strategic Recommendations: Provide data-driven strategies for proactive bike redistribution, infrastructure planning for emerging markets, and maintenance prioritization to improve overall user satisfaction and system reliability.
 
 ## 📖 Table of Contents
 - [Project Overview](#-project-overview)
