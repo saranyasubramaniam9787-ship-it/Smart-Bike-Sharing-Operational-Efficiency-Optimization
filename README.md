@@ -31,7 +31,7 @@ The objective of this project was to analyze real-time smart city bike-sharing d
 ## 🛠️ Tools & Technologies
 - **Visualization & Modeling:** Microsoft Power BI (DAX, Power Query)
 - **Data Transformation:** Power Query (M Language)
-- **Documentation:** Markdown (GitHub)
+- **Documentation:** Microsoft Word
 - **Data Source Format:** Excel (.xlsx)
 
 ## 🧹 Data Cleaning & Preparation
